@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @BrianLesko
 - 👀 I’m interested in autonomy, rapid prototyping, robotics, control systems, AI, machine learning, and 
-- 🌱 I’m currently working as Robotics Engineer III 11/05/2023
-- 💞️ I’m looking to collaborate with new ventures
+- 🌱 I’m currently working as a third level Robotics Engineer at Sherwin Williams
 - 📫 Email me at BrianJosephLesko@gmail.com
 
 <hr>
