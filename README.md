@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @BrianLesko, please call me Brian Joseph Lesko
-- 👀 I’m interested in autonomy, rapid prototyping, robotics, control systems, AI, and machine learning.
+- 👀 I’m interested in first principles engineering
+- 🤖 I love hardware, programming, and lean manufacturing
 - 🌱 I’m currently working as a third level Robotics Engineer at Sherwin Williams.
 - 📫 Email me at BrianJosephLesko@gmail.com
 
