@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @BrianLesko, please call me Brian Joseph Lesko
+- 👋 Hi, I’m @BrianLesko
 - 👀 I’m interested in first principles engineering
-- 🤖 I love hardware, programming, and lean manufacturing
+- 🌎 The world is a great place
+- <3 hardware, programming, and lean manufacturing
 - 🌱 I’m currently working as a third level Robotics Engineer at Sherwin Williams.
 - 📫 Email me at BrianJosephLesko@gmail.com
 
