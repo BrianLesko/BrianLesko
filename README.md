@@ -1,9 +1,5 @@
 - 👋 Hi, I’m @BrianLesko.
-- 👀 I’m interested in first
-      First Principles engineering
-      Low Code programming
-      Mechanical Design
-      Actuators
+- 👀 I’m interested in first First Principles engineering
 - 🌱 I’m currently working as a third level Robotics Automation Engineer at Sherwin Williams.
 - I have studied controls engineering, robotics engineering, and mechanical engineering, process improvement, and completed a Masters of Science at Ohio State - go bucks!
 - 📫 Email me at BrianJosephLesko@gmail.com
