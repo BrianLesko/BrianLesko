@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BrianLesko.
 - 👀 I’m interested in first First Principles engineering
-- 🦾 I’m currently working as a Robotics Automation Engineer at Sherwin Williams.
+- 🦾 I’m currently working as a Robotics Automation Engineer.
 - ⏲️ Continuous imrpovement in controls engineering, robotics engineering, and mechanical engineering. 
 - 📫 Email me at BrianJosephLesko@gmail.com
 
