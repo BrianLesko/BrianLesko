@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BrianLesko.
-- 👀 I’m interested in first First Principles engineering
-- 🦾 I’m currently working as a Robotics Automation Engineer.
-- ⏲️ Continuous imrpovement in controls engineering, robotics engineering, and mechanical engineering. 
+- 👀 I’m interested in first First Principles engineering.
+- 🦾 Currently I am working as a Robotics Automation Engineer.
+- I Study what needs to be known. 
 - 📫 Email me at BrianJosephLesko@gmail.com
 
 <hr>
