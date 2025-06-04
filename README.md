@@ -1,10 +1,16 @@
 Hi, I'm Brian Lesko
 
-On Engineering: Whether it's the linear algebra behind robotics, the psychology of running a family business, or the polymer science at my day job, I optimize for understanding everything from the ground up.
+I optimize for understanding everything from the ground up.
 
-- 🦾 Currently I am working as a Robotics Automation Engineer.
-- I Study what needs to be known. 
-- 📫 Email me at BrianJosephLesko@gmail.com
+Experience
+- Robotics Engineer
+- Automation Engineer
+- Mechanical Engineer
+- Real estate investment
+- Backend developer
+- Frontend developer
+
+📫 Email me at BrianJosephLesko@gmail.com
 
 &nbsp;
 
