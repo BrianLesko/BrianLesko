@@ -2,6 +2,9 @@ Hi, I'm Brian Lesko
 
 I optimize for understanding everything from the ground up.
 
+Check out some of my projects:
+[TextWork](textwork.co)
+
 Experience
 - Robotics Engineer
 - Automation Engineer
