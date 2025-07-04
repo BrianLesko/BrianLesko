@@ -3,7 +3,14 @@ Hi, I'm Brian Lesko
 I optimize for understanding everything from the ground up.
 
 Check out some of my projects:
-[TextWork](textwork.co)
+
+[TextWork](https://textwork.co)
+[brianlesko.com](https://brianlesko.com)
+[MyRental](https://myrental.co)
+
+See how much i'm making:
+[indiepage](https://indiepa.ge/brianlesko)
+
 
 Experience
 - Robotics Engineer
