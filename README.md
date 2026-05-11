@@ -9,11 +9,6 @@ Check out some of my projects:
 
 Experience
 - Robotics Engineer
-- Automation Engineer
-- Mechanical Engineer
-- Real estate investment
-- Backend developer
-- Frontend developer
 
 📫 Email me at BrianJosephLesko@gmail.com
 
