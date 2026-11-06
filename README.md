@@ -5,6 +5,7 @@ I optimize for understanding everything from the ground up.
 Check out some of my projects:  
 [TextWork](https://textwork.co)  
 [brianlesko.com](https://brianlesko.com)  
+[leskohomes.com](https://leskohomes.com)  
 
 
 Experience
